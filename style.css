@@ -1,0 +1,14 @@
+#grid {
+    margin: 150px auto;
+    width: 900px;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.blank {
+    width: 202px;
+    height: 202px;
+    background-color: red;
+    border: 1px solid black;
+}
